@@ -5,4 +5,4 @@ Quiz for Digi Project
 - [x] Start Quiz
 - [x] Finish Building Starting Sequence
 - [ ] Create First Quiz Type
-- [ ] Check over Must haves and add them to this list
+- [ ] Check Over Must haves and add them to this list
