@@ -1,0 +1,7 @@
+Problems - 17/09/2023 - Ver 2
+
+Today I had a problem when I was creating the Quiz type Choice.
+
+If the end user where to enter one instead of 1 I would get a Value Error. To fix this I added the "Try:" and "Except:" functions to help handle this.
+
+Forgetting to add quiz_name to the function where it is defined, add_user(new_user, quiz_name).
