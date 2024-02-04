@@ -1,8 +1,5 @@
 # Quiz-Time
 Quiz for Digi Project
 
-# To-Do List
-- [x] Start Quiz
-- [x] Finish Building Starting Sequence
-- [ ] Create First Quiz Type
-- [ ] Check Over Must haves and add them to this list
+This is my Completed code, I went through many changes, and in the end, it had to be 'simple', and 'clean', which my code was not - This was honestly my own mistake, so I quickly whipped up the 'cleanest', 'smallest' and most 'simplest' I could create.
+
